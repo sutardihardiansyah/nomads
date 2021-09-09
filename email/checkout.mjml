@@ -1,0 +1,67 @@
+<mjml>
+  <mj-body background-color="#E4E6EB" font-size="13px">
+    <mj-section background-color="#FFF" vertical-align="top" padding-bottom="0" padding-top="0" border-bottom="1px dashed #EEE">
+      <mj-column width="100%" vertical-align="top">
+        <mj-image src="images/logo@2x.png" alt="" align="center" border="none" width="150px" padding-left="0" padding-right="0" padding-bottom="25px" padding-top="30px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF" vertical-align="top" padding-bottom="0" padding-top="0">
+      <mj-column width="100%" vertical-align="top">
+        <mj-text align="center" color="#071C4D" font-size="30px" font-weight="bold" font-family="Playfair Display, Times New Roman, serif" padding-left="25px" padding-right="25px" padding-bottom="30px" padding-top="30px">
+          Don't Forget Your E-Ticket
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF" padding-bottom="0" padding-top="0">
+      <mj-column width="100%" vertical-align="top">
+        <mj-image src="images/nusa_penida@2x.jpg" alt="" align="center" border="none" width="550px" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" padding-bottom="20px" padding-top="20px">
+      <mj-column width="100%" vertical-align="middle" border-bottom="1px dashed #eee" padding-bottom="30px">
+        <mj-text align="left" color="#071C4D" font-size="18px" line-height="28px" font-family="Assistant, Aria, Helvetica, sans-serif" padding-left="25px" padding-right="25px">
+          Hi, Angga Risky
+          <br><br>
+          Tiket digital kamu sudah berhasil dicetak.
+          <br>
+          Booking ID <strong>#22081996</strong>
+        </mj-text>
+
+        <mj-table color="#071C4D" font-size="28px" line-height="28px" font-family="Assistant, Aria, Helvetica, sans-serif" padding-left="25px" padding-right="25px">
+          <tr>
+            <td colspan="3">Members</td>
+          </tr>
+          <tr>
+            <td><stron>Angga Risky</strong></td>
+            <td style="text-align:right;">Singapore, SG</td>
+          </tr>
+          <tr>
+            <td><stron>Galih Pratama</strong></td>
+            <td style="text-align:right;">Singapore, SG</td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="#071C4D" font-size="28px" line-height="28px" font-family="Assistant, Aria, Helvetica, sans-serif" padding-left="25px" padding-right="25px">
+          <tr>
+            <td colspan="3">Travel Details</td>
+          </tr>
+          <tr>
+            <td><stron>Departure</strong></td>
+            <td style="text-align:right;">Nusa Penida</td>
+          </tr>
+          <tr>
+            <td><stron>Date And Time</strong></td>
+            <td style="text-align:right;">Thu, 20 Jan 2020</td>
+          </tr>
+        </mj-table>
+
+        <mj-button align="center" font-size="18px" font-weight="bold" background-color="#FF9E53" border-radius="10px" color="#FFF" font-family="Assistant, Aria, Helvetica, sans-serif">
+          Check Detail
+        </mj-button>
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
